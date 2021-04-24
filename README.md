@@ -2,9 +2,9 @@
 
 Projeto do Podcastr, realizado na quinta edição da Next Level Week da Rocketseat.
 
-Utilizando React.Js e Next.Js, para a criação de uma SPA, com conceitos de Server Side Rendering e Static Site Generation.
+Utilizando React.Js e Next.Js para a criação de uma SPA, com conceitos de Server Side Rendering e Static Site Generation.
 
-- Comandos para instalação de dependencias via terminal:
+- Comandos para instalação de dependências via terminal:
 
 $ npm install -g typescript
 
@@ -18,7 +18,7 @@ $ npm add axios
 
 $ npm add json-server -D
 
-- Comandos para inicialiar a aplicação via terminal:
+- Comandos para inicializar a aplicação via terminal:
 
 $ npm run dev (ambiente de desenvolvimento em tempo real)
 
